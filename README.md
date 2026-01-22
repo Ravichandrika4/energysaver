@@ -247,4 +247,9 @@ button.red{
     margin-top:50px;
 }
 
+<img width="1886" height="773" alt="Screenshot 2026-01-22 232057" src="https://github.com/user-attachments/assets/b5afeba1-af89-4cdc-95f2-b93dd3be168d" />
+<img width="1900" height="812" alt="Screenshot 2026-01-22 232128" src="https://github.com/user-attachments/assets/0ba351f3-a15f-4e3e-8372-298f105db89e" />
+
+
+
 
